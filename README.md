@@ -1,5 +1,4 @@
 - Hi, I’m Abdullah Al Mahmud
-- I’m interested in software engineering,web development etc
 - I’m currently studying in Department of CSE in Bangladesh University of Engineering and Technology(BUET)
 
 <!---
