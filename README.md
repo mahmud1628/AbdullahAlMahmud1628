@@ -1,5 +1,5 @@
-- Hi, I’m Abdullah Al Mahmud
-- I’m currently studying in Department of CSE in Bangladesh University of Engineering and Technology(BUET)
+# Hi, I’m Abdullah Al Mahmud
+# I’m currently studying in Department of CSE in Bangladesh University of Engineering and Technology(BUET)
 
 <!---
 AbdullahAlMahmud1628/AbdullahAlMahmud1628 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
